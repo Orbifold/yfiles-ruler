@@ -1,7 +1,7 @@
-# yFiles Rulter
+# yFiles Ruler
 
 Besides being a good starter project this includes a re-usable ruler. No framework is used aside from TypeScript and WebPack.
-The `randomGraph.ts` file contains various algorithms to generate graphs, which can also be useful for prototyping things.
+The [randomGraph.ts](https://github.com/Orbifold/yfiles-ruler/blob/main/app/scripts/randomGraph.ts) file contains various algorithms to generate graphs, which can also be useful for prototyping things.
 ![](./Screenshot.png)
 
 
